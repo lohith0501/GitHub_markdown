@@ -1,11 +1,11 @@
-# GitHub_markdown
+<p align="center"><img width=22.5% src="https://avatars.githubusercontent.com/u/67179924?s=280&v=4"></p>
 
-![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![Build Status](https://travis-ci.org/anfederico/Clairvoyant.svg?branch=master)](https://travis-ci.org/anfederico/Clairvoyant)
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
-[![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/anfederico/Clairvoyant/issues)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<h1 align="center">Assignment 7 on closures</h1>
+
+<h4 align="center">Submission by Lohith G N (EPAI batch 3) </h4>
+
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg) ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 
 
-[![Test_result](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/The-School-of-AI/session-2-assignment-lohith0501/runs/2581814858?check_suite_focus=true)
+
+
