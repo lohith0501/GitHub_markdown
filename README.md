@@ -8,4 +8,4 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-[![Test_result](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/The-School-of-AI/session-2-assignment-lohith0501/runs/2581814858?check_suite_focus=true)
+[![Test_result](https://img.shields.io/github/test/anfederico/Clairvoyant.svg)](https://github.com/The-School-of-AI/session-2-assignment-lohith0501/runs/2581814858?check_suite_focus=true)
